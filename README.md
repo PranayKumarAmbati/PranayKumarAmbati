@@ -1,4 +1,5 @@
-Hi! My name is Pranay Kumar Ambati![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif);This+is+Pranay+Kumar+Ambati)](https://git.io/typing-svg)
 ===========================================================================================================================================
 
 Full Stack Developer
