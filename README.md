@@ -1,6 +1,4 @@
-<h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;This+is+Pranay+Kumar+Ambati)](https://git.io/typing-svg)
-</h1>
 ===========================================================================================================================================
 
 Full Stack Developer
